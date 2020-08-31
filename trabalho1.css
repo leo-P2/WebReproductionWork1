@@ -107,7 +107,7 @@
 }
 
 button {
-	background-color: pink;
+
   border: none;
   color: white;
   padding: 9px 12px;
@@ -123,4 +123,7 @@ td {
 }
 tr {
 	overflow: auto;
+}
+.scrollchat {
+	overflow-y: scroll;
 }
